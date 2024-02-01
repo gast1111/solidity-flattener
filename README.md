@@ -6,7 +6,7 @@
 
 ## Utility to combine all imports to one flatten .sol file
 
-### Installation from npm
+### Installation from 
 
 `npm i @poanet/solidity-flattener`
 
